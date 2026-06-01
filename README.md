@@ -1,2 +1,4 @@
-# web-450
-WEB 450: Mastering the MEAN Stack
+# WEB 450: Mastering the MEAN Stack
+## Contributors:
+- Richard Krasso
+- Shannon Kueneke
